@@ -1,13 +1,16 @@
 ---
 imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageAlt: "About MATWEG site Blog"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+Portfolio  is was a Gatsby creates outstanding so it is cool and i used it!
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+my bio, hi my neme is Matthew, I'm form poland, and you are in my blog where I add posts related to my hobby, i.e. programming and creating various cool applications.
+skills, Linux, Admin servers, web developer, Hacking skills, and of course network developer
+projects, all projects is will be here in this blog , bellow in articles
+and contact details. mail szokwow@gmail.com , fb , github , etc.
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
+Let's go.
 
 Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
 
